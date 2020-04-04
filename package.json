@@ -1,0 +1,12 @@
+{
+  "name": "watermark-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pia-gab/watermark-node-app.git",
+  "author": "gg <piasek.gaba@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
